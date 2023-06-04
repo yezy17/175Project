@@ -1,0 +1,51 @@
+{
+    "testWalker": {
+        "checkpoints": [
+            {
+                "steps": 469581,
+                "file_path": "results\\twoWalker_2\\testWalker\\testWalker-469581.onnx",
+                "reward": 3.445867447294615,
+                "creation_time": 1685826011.2501426,
+                "auxillary_file_paths": [
+                    "results\\twoWalker_2\\testWalker\\testWalker-469581.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 469581,
+            "file_path": "results\\twoWalker_2\\testWalker.onnx",
+            "reward": 3.445867447294615,
+            "creation_time": 1685826011.2501426,
+            "auxillary_file_paths": [
+                "results\\twoWalker_2\\testWalker\\testWalker-469581.pt"
+            ]
+        }
+    },
+    "Guader": {
+        "checkpoints": [
+            {
+                "steps": 469618,
+                "file_path": "results\\twoWalker_2\\Guader\\Guader-469618.onnx",
+                "reward": 2.5082176030219623,
+                "creation_time": 1685826011.3364954,
+                "auxillary_file_paths": [
+                    "results\\twoWalker_2\\Guader\\Guader-469618.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 469618,
+            "file_path": "results\\twoWalker_2\\Guader.onnx",
+            "reward": 2.5082176030219623,
+            "creation_time": 1685826011.3364954,
+            "auxillary_file_paths": [
+                "results\\twoWalker_2\\Guader\\Guader-469618.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.31.0.dev0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

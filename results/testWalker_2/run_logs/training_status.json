@@ -1,0 +1,65 @@
+{
+    "testWalker": {
+        "checkpoints": [
+            {
+                "steps": 9999991,
+                "file_path": "results\\testWalker_2\\testWalker\\testWalker-9999991.onnx",
+                "reward": 62.2951440239946,
+                "creation_time": 1685740482.7298033,
+                "auxillary_file_paths": [
+                    "results\\testWalker_2\\testWalker\\testWalker-9999991.pt"
+                ]
+            },
+            {
+                "steps": 10499966,
+                "file_path": "results\\testWalker_2\\testWalker\\testWalker-10499966.onnx",
+                "reward": 65.40997382722342,
+                "creation_time": 1685741130.4976983,
+                "auxillary_file_paths": [
+                    "results\\testWalker_2\\testWalker\\testWalker-10499966.pt"
+                ]
+            },
+            {
+                "steps": 10932647,
+                "file_path": "results\\testWalker_2\\testWalker\\testWalker-10932647.onnx",
+                "reward": 67.99559091161674,
+                "creation_time": 1685741680.2945142,
+                "auxillary_file_paths": [
+                    "results\\testWalker_2\\testWalker\\testWalker-10932647.pt"
+                ]
+            },
+            {
+                "steps": 10999993,
+                "file_path": "results\\testWalker_2\\testWalker\\testWalker-10999993.onnx",
+                "reward": 58.59496555018099,
+                "creation_time": 1685756909.4142203,
+                "auxillary_file_paths": [
+                    "results\\testWalker_2\\testWalker\\testWalker-10999993.pt"
+                ]
+            },
+            {
+                "steps": 11296112,
+                "file_path": "results\\testWalker_2\\testWalker\\testWalker-11296112.onnx",
+                "reward": 68.05363668148229,
+                "creation_time": 1685757281.7314465,
+                "auxillary_file_paths": [
+                    "results\\testWalker_2\\testWalker\\testWalker-11296112.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 11296112,
+            "file_path": "results\\testWalker_2\\testWalker.onnx",
+            "reward": 68.05363668148229,
+            "creation_time": 1685757281.7314465,
+            "auxillary_file_paths": [
+                "results\\testWalker_2\\testWalker\\testWalker-11296112.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.31.0.dev0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

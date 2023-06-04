@@ -1,0 +1,123 @@
+{
+    "Guader": {
+        "checkpoints": [
+            {
+                "steps": 7499975,
+                "file_path": "results\\twoWalker_1\\Guader\\Guader-7499975.onnx",
+                "reward": 50.43620093057979,
+                "creation_time": 1685780270.6330934,
+                "auxillary_file_paths": [
+                    "results\\twoWalker_1\\Guader\\Guader-7499975.pt"
+                ]
+            },
+            {
+                "steps": 7999991,
+                "file_path": "results\\twoWalker_1\\Guader\\Guader-7999991.onnx",
+                "reward": 64.6817866365836,
+                "creation_time": 1685781474.1826599,
+                "auxillary_file_paths": [
+                    "results\\twoWalker_1\\Guader\\Guader-7999991.pt"
+                ]
+            },
+            {
+                "steps": 8499915,
+                "file_path": "results\\twoWalker_1\\Guader\\Guader-8499915.onnx",
+                "reward": 86.94686333142047,
+                "creation_time": 1685782718.710194,
+                "auxillary_file_paths": [
+                    "results\\twoWalker_1\\Guader\\Guader-8499915.pt"
+                ]
+            },
+            {
+                "steps": 8749268,
+                "file_path": "results\\twoWalker_1\\Guader\\Guader-8749268.onnx",
+                "reward": 97.81823325329103,
+                "creation_time": 1685783332.0107098,
+                "auxillary_file_paths": [
+                    "results\\twoWalker_1\\Guader\\Guader-8749268.pt"
+                ]
+            },
+            {
+                "steps": 8826880,
+                "file_path": "results\\twoWalker_1\\Guader\\Guader-8826880.onnx",
+                "reward": 21.883946090876698,
+                "creation_time": 1685824140.4231963,
+                "auxillary_file_paths": [
+                    "results\\twoWalker_1\\Guader\\Guader-8826880.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 8826880,
+            "file_path": "results\\twoWalker_1\\Guader.onnx",
+            "reward": 21.883946090876698,
+            "creation_time": 1685824140.4231963,
+            "auxillary_file_paths": [
+                "results\\twoWalker_1\\Guader\\Guader-8826880.pt"
+            ]
+        }
+    },
+    "testWalker": {
+        "checkpoints": [
+            {
+                "steps": 7499999,
+                "file_path": "results\\twoWalker_1\\testWalker\\testWalker-7499999.onnx",
+                "reward": 50.50408789140736,
+                "creation_time": 1685780270.8845255,
+                "auxillary_file_paths": [
+                    "results\\twoWalker_1\\testWalker\\testWalker-7499999.pt"
+                ]
+            },
+            {
+                "steps": 7999995,
+                "file_path": "results\\twoWalker_1\\testWalker\\testWalker-7999995.onnx",
+                "reward": 57.26202736591881,
+                "creation_time": 1685781474.3490598,
+                "auxillary_file_paths": [
+                    "results\\twoWalker_1\\testWalker\\testWalker-7999995.pt"
+                ]
+            },
+            {
+                "steps": 8499939,
+                "file_path": "results\\twoWalker_1\\testWalker\\testWalker-8499939.onnx",
+                "reward": 57.873365083005694,
+                "creation_time": 1685782718.4608223,
+                "auxillary_file_paths": [
+                    "results\\twoWalker_1\\testWalker\\testWalker-8499939.pt"
+                ]
+            },
+            {
+                "steps": 8749434,
+                "file_path": "results\\twoWalker_1\\testWalker\\testWalker-8749434.onnx",
+                "reward": 59.24373609865649,
+                "creation_time": 1685783331.9031613,
+                "auxillary_file_paths": [
+                    "results\\twoWalker_1\\testWalker\\testWalker-8749434.pt"
+                ]
+            },
+            {
+                "steps": 8826869,
+                "file_path": "results\\twoWalker_1\\testWalker\\testWalker-8826869.onnx",
+                "reward": 62.97698442032561,
+                "creation_time": 1685824140.3627498,
+                "auxillary_file_paths": [
+                    "results\\twoWalker_1\\testWalker\\testWalker-8826869.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 8826869,
+            "file_path": "results\\twoWalker_1\\testWalker.onnx",
+            "reward": 62.97698442032561,
+            "creation_time": 1685824140.3627498,
+            "auxillary_file_paths": [
+                "results\\twoWalker_1\\testWalker\\testWalker-8826869.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.31.0.dev0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
