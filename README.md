@@ -27,7 +27,4 @@ use the command line:
 
 ### One-line description for each file:
 
-![](D:\Source\Downloads\rec\graph\2.png)
-
-
-
+![](./graph/one-line.png)
