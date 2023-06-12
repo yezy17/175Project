@@ -25,6 +25,8 @@ use the command line:
   mlagents-learn config/twoWalkerSelfPlay.yaml --run-id=twoWalkerSP_1 --torch-device="cuda" --force
   ```
 
+- Or run project.ipynb in Colab;
+
 ### One-line description for each file:
 
 ![](./graph/one-line.png)
